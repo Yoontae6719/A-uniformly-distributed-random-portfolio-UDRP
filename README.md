@@ -1,4 +1,4 @@
-# Diagnosing Model Performance Under Distribution Shift
+# A uniformly distributed random portfolio
 
 This repository contains a reproduction of the research [A uniformly distributed random portfolio](https://www.tandfonline.com/doi/full/10.1080/14697688.2015.1114360), which was originally published in [Quantitative Finance](https://www.tandfonline.com/journals/rquf20). Please note that this is not an official repository maintained by the original authors.
 
