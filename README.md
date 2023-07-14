@@ -8,7 +8,7 @@ In this reproduction, we aim to recreate the experiments and results reported in
 
 The repository contains code for reproducing the experiments in the paper. All reproducible experiments are available in the form of Jupyter notebooks. Specifically, it includes:
 - [x] Chap 2.1 to 2.2 Probability distribution of Sharpe ratio of uniformly distributed random portfolio
-- [] Chap 2.3. A uniformly distributed random portfolio with no-short constraint
+- [ ] Chap 2.3. A uniformly distributed random portfolio with no-short constraint
 
 ## News
 - We will update the UDRP to reflect the no short constraint as soon as possible.
