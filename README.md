@@ -12,6 +12,7 @@ The repository contains code for reproducing the experiments in the paper. All r
 
 ## News
 - We will update the UDRP to reflect the no short constraint as soon as possible.
+- We will update the .py version. 
 
 ## Contributing
 We welcome contributions to this repository, such as bug fixes or enhancements to the code. Please create a pull request with your changes, and we will review them as soon as possible.
