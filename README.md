@@ -3,7 +3,7 @@
 This repository contains a reproduction of the research [A uniformly distributed random portfolio](https://www.tandfonline.com/doi/full/10.1080/14697688.2015.1114360), which was originally published in [Quantitative Finance](https://www.tandfonline.com/journals/rquf20). Please note that this is not an official repository maintained by the original authors.
 
 
-## Overviwe
+## Overview
 In this reproduction, we aim to recreate the experiments and results reported in the original research paper. We follow the methodology described in the paper as closely as possible, using the similar dataset. *The data used in the following code is different from the data used in the paper, so the results may not be completely identical. As the official code has not been released yet, please report any incorrect parts*
 
 The repository contains code for reproducing the experiments in the paper. All reproducible experiments are available in the form of Jupyter notebooks. Specifically, it includes:
